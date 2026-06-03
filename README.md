@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Taras 👋
 
-<!--
-**tlscrpt/tlscrpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer with 4+ years of experience building modern, responsive and performance-oriented websites and web applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Developing web applications with React and JavaScript
+* Building business, multilingual and responsive websites
+* Creating user-friendly interfaces with a focus on UX/UI
+* Working with REST APIs and third-party integrations
+* Optimizing website performance, SEO and user experience
+* Managing complete web projects from design to deployment
+* Running and optimizing Google Ads campaigns
+
+## Tech Stack
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML5
+* CSS3 / SCSS
+
+**Backend & CMS**
+
+* PHP
+* WordPress
+
+**Tools & Technologies**
+
+* REST API
+* Git / GitHub
+* Vite
+* Webpack
+* SEO
+* Google Ads
+* Google Analytics
+
+## Exploring
+
+- TypeScript
+- Next.js
+- Strapi (Headless CMS)
+
+## Portfolio
+
+🌐 https://tlscrpt.com
+
+## Connect With Me
+
+* LinkedIn: https://linkedin.com/in/taraslopatiuk
+* Email: [lopatiuktaras@gmail.com](mailto:lopatiuktaras@gmail.com)
